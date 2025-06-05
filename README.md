@@ -6,6 +6,7 @@
 * System Design
 
 - I have experience in these technologies
+* Golang
 * Typesciprt, NodeJS, NestJS, ExpressJS, etc..
 * Php, Laravel, Symfony, etc..
 * TDD, DDD, Hexagonal Architecture, Clean Architecture, etc..
