@@ -1,6 +1,6 @@
 Linkedin   : https://www.linkedin.com/in/recaicansiz/
 
-Goodreads  : https://www.goodreads.com/review/list/3025373-recai-cans-z?shelf=read  (It is my book list that I have read)
+Goodreads  : https://www.goodreads.com/review/list/3025373-recai-cans-z?shelf=read
 
 
 - 👀 I’m interested in:
