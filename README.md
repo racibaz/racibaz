@@ -7,9 +7,9 @@
   
 - I have experience in these technologies
 * Golang
-* Kubernetes
 * Typesciprt, NodeJS, NestJS, ExpressJS, etc..
 * Php, Laravel, Symfony, etc..
+* Kubernetes
 * TDD, DDD, Hexagonal Architecture, Clean Architecture, etc..
 * Grafana, Prometheus, Opentelemetry, etc..
 * Magento, Shopify, Woocommerce, Prestashop and Moodle extension development
