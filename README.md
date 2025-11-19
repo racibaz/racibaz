@@ -1,11 +1,11 @@
-- 👀 I’m interested in:
+## 👀 I’m interested in:
 * Software Architecture
 * System Design
 * Blockchain and Cryptocurrency
 * SaaS
 * Fintech
-  
-- I have experience in these technologies
+
+## I have experience in these technologies
 * Golang
 * Typesciprt, NodeJS, NestJS, ExpressJS, etc..
 * Php, Laravel, Symfony, etc..
@@ -15,6 +15,7 @@
 * Postman(Contract Testing)
 * Magento, Shopify, Woocommerce, Prestashop and Moodle extension development
 
+## My Links
 
 Goodreads  : https://www.goodreads.com/review/list/3025373-recai-cans-z?shelf=read
 
