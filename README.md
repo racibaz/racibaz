@@ -7,7 +7,7 @@
 
 ## I have experience in these technologies
 * Golang
-* Typesciprt, NodeJS, NestJS, ExpressJS, etc..
+* Typescript, NodeJS, NestJS, ExpressJS, etc..
 * Php, Laravel, Symfony, etc..
 * Kubernetes
 * TDD, DDD, Hexagonal Architecture, Clean Architecture, etc..
