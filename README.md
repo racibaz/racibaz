@@ -1,5 +1,4 @@
 - 👀 I’m interested in:
-  
 * Software Architecture
 * System Design
 * Blockchain and Cryptocurrency
@@ -7,7 +6,6 @@
 * Fintech
   
 - I have experience in these technologies
-  
 * Golang
 * Typesciprt, NodeJS, NestJS, ExpressJS, etc..
 * Php, Laravel, Symfony, etc..
