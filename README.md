@@ -1,23 +1,51 @@
-## 👀 I’m interested in:
-* Software Architecture
-* System Design
-* Blockchain and Cryptocurrency
-* SaaS
-* Fintech
+## 👀 Interests
 
-## I have experience in these technologies
-* Golang
-* Typescript, NodeJS, NestJS, ExpressJS, etc..
-* Php, Laravel, Symfony, etc..
-* Kubernetes
-* Github Actions
-* TDD, DDD, Hexagonal Architecture, Clean Architecture, etc..
-* Grafana, Prometheus, Jaeger, Opentelemetry, EFK (ElasticSearch, Fluentbit, Kibana), etc..
-* Postman(Contract Testing)
-* Magento, Shopify, Woocommerce, Prestashop and Moodle extension development
+- Software Architecture & System Design
+- Distributed Systems
+- Blockchain & Cryptocurrency
+- SaaS Platforms
+- Fintech Solutions
 
-## My Links
+---
 
-Goodreads  : https://www.goodreads.com/review/list/3025373-recai-cans-z?shelf=read
+## 🧠 Technical Experience
 
-Linkedin   : https://www.linkedin.com/in/recaicansiz/
+### Backend & Languages
+- **Golang**
+- **TypeScript / Node.js** (NestJS, Express.js)
+- **PHP** (Laravel, Symfony)
+
+### Architecture & Practices
+- Test-Driven Development (TDD)
+- Domain-Driven Design (DDD)
+- Hexagonal Architecture
+- Clean Architecture
+
+### DevOps & Observability
+- Kubernetes
+- GitHub Actions
+- Grafana, Prometheus
+- Jaeger, OpenTelemetry
+- EFK Stack (Elasticsearch, Fluentd, Kibana)
+
+### API & Testing
+- Postman (Contract Testing)
+
+### E-Commerce & CMS Extensions
+- Magento
+- Shopify
+- WooCommerce
+- PrestaShop
+- Moodle
+
+---
+
+📖 Goodreads:  
+👉 https://www.goodreads.com/review/list/3025373-recai-cans-z?shelf=read
+
+---
+
+## 🔗 Connect With Me
+
+💼 LinkedIn:  
+👉 https://www.linkedin.com/in/recaicansiz/
