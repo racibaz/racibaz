@@ -5,6 +5,7 @@
 - Blockchain & Cryptocurrency
 - SaaS Platforms
 - Fintech Solutions
+- Cloud-Native Solutions
 
 ---
 
