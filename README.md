@@ -23,6 +23,7 @@
 - Clean Architecture
 - Vertical Slice Architecture
 - CQRS
+- Event-Driven Architecture
 
 ### DevOps & Observability
 - Kubernetes
