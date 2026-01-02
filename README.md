@@ -21,6 +21,8 @@
 - Domain-Driven Design (DDD)
 - Hexagonal Architecture
 - Clean Architecture
+- Vertical Slice Architecture
+- CQRS
 
 ### DevOps & Observability
 - Kubernetes
