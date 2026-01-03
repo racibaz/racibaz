@@ -11,7 +11,7 @@
 
 ## 🧠 Technical Experience
 
-### Backend & Languages
+### Languages & Frameworks
 - **Golang**
 - **TypeScript / Node.js** (NestJS, Express.js)
 - **PHP** (Laravel, Symfony)
@@ -32,7 +32,15 @@
 - Jaeger, OpenTelemetry
 - EFK Stack (Elasticsearch, Fluentd, Kibana)
 
+### Technologies
+- RabbitMQ
+- Nats
+- Elasticsearch
+
 ### API & Testing
+- Testify
+- Phpunit
+- Jest
 - Postman (Contract Testing)
 
 ### E-Commerce & CMS Extensions
