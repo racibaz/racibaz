@@ -61,3 +61,6 @@
 
 💼 LinkedIn:  
 👉 https://www.linkedin.com/in/recaicansiz/
+
+Keywords:  
+Blameless Postmortem Culture, Runbook, Playbook, Adr, Podomoro,  
