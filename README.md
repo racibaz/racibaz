@@ -24,6 +24,7 @@
 - Vertical Slice Architecture
 - CQRS
 - Event-Driven Architecture
+- Constraint Driven Development (CDD)
 
 ### DevOps & Observability
 - Kubernetes
