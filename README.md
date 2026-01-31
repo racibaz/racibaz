@@ -25,6 +25,7 @@
 - CQRS
 - Event-Driven Architecture
 - Constraint Driven Development (CDD)
+- Spec-Driven Development (SDD) 
 
 ### DevOps & Observability
 - Kubernetes
