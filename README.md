@@ -52,12 +52,6 @@
 - PrestaShop
 - Moodle
 
----
-
-📖 Goodreads:  
-👉 https://www.goodreads.com/review/list/3025373-recai-cans-z?shelf=read
-
----
 
 ## 🔗 Connect With Me
 
